@@ -1,0 +1,47 @@
+body {
+     color: Grey;
+     background-image: url("http://cdn.wallpapersafari.com/75/57/sG4LS6.jpg");
+     }
+
+h1 {
+   font-family: Arial, Helvetica, sans-serif;
+   background-color: red;
+   text-align: center;
+   }
+
+h2 {
+   color: Blue;
+   text-align: center;
+   font: italic bold 30px Georgia, serif;
+   }  
+
+h3 {
+   color: Orange;
+   }
+
+p {
+  position: absolute;
+  left: 0;
+  text-align: center;
+  background-color: White;
+  }
+
+a {
+  color: hotpink;
+  }
+
+a:link {
+       color: red;
+       }
+
+a:visited {
+    	  color: green;
+	  }	  
+
+a:hover {
+    	color: hotpink;
+	}
+
+a:active {
+    	 color: blue;
+	 }

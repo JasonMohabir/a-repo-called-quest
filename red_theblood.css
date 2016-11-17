@@ -1,0 +1,36 @@
+body {
+     color: DarkSlateGrey;
+     background-color: lightblue;
+     border-style: solid;
+     border-width: medium;
+     }
+
+h1 {
+   color: Green;
+   background-color: Red;
+   text-align: center;
+   }
+
+h2 {
+   color: Red;
+   text-align: center;
+   font: italic bold 30px Georgia, serif;
+}
+
+h3 {
+   color: Blue;
+}
+
+p {
+  color: Yellow;
+  border: 5px solid gray;
+}
+
+li {
+   color: Purple;
+   }
+
+ul {
+   color: Grey;
+   text-align:
+}
